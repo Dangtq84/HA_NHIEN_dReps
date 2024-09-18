@@ -53,11 +53,11 @@
   "authors": [],
   "hashAlgorithm": "blake2b-256",
   "body": {
-    "doNotList": false,
+    "doNotList": true,
     "givenName": "HA_NHIEN",
     "motivations": "",
     "objectives": "",
-    "paymentAddress": "",
+    "paymentAddress": "addr_test1qp2xpy0umvzqf5e0gevan2kfuu8r3vfxqff9yn0x73l42rxmgqzvwlgdvdcacjd2sl05hnys6kszej0cp9463d6rpxvsymvwp9",
     "qualifications": "",
     "references": []
   }
